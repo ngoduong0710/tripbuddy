@@ -4,31 +4,6 @@
 
 TripBuddy is a application designed to connect travelers with local residents to discover hidden and lesser - known tourist spots. The platform addresses the growing demand for unique and affordable travel experiences that mainstream apps often overlook. While most travel platforms suggest popular tourist destinations, TripBuddy allows local people to share affordable, lesser - known places that only they are familiar with. Travelers can search for recommended spots, read reviews, plan their itineraries, and get personalized suggestions based on their location. Locals can contribute by sharing their favorite spots, and users can review and rate locations, helping others discover the best places to visit.
 
-## 🌟 Demo
-
-### 🔗 Live Demo
-
-[![Deployed on Vercel](https://img.shields.io/badge/deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.tripbuddy.site/)
-
-### 📊 Project Stats
-
-<!-- Repository Stats -->
-![GitHub repo size](https://img.shields.io/github/repo-size/ngoduong0710/tripbuddy?style=for-the-badge&logo=github)
-![GitHub code size](https://img.shields.io/github/languages/code-size/ngoduong0710/tripbuddy?style=for-the-badge&logo=github)
-
-<!-- Activity Stats -->
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ngoduong0710/tripbuddy?style=for-the-badge&logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/ngoduong0710/tripbuddy?style=for-the-badge&logo=github)
-
-<!-- Issues & PRs -->
-![GitHub issues](https://img.shields.io/github/issues/ngoduong0710/tripbuddy?style=for-the-badge&logo=github)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ngoduong0710/tripbuddy?style=for-the-badge&logo=github)
-
-<!-- Quality & CI -->
-[![Vercel Deployment Status](https://img.shields.io/github/deployments/ngoduong0710/tripbuddy/Production?logo=vercel&style=for-the-badge&label=vercel&logoColor=white)](https://github.com/ngoduong0710/tripbuddy/deployments)
-[![Quality Gate Status](https://img.shields.io/sonar/quality_gate/ngoduong0710_tripbuddy?server=https%3A%2F%2Fsonarcloud.io&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/summary/new_code?id=ngoduong0710_tripbuddy)
-[![Dependencies Status](https://img.shields.io/librariesio/github/ngoduong0710/tripbuddy?style=for-the-badge)](https://libraries.io/github/ngoduong0710/tripbuddy)
-
 ## 👥 Đội ngũ phát triển
 
 | [![](https://github.com/pnquyen24.png)](https://github.com/pnquyen24) | [![](https://github.com/ngoduong1740.png)](https://github.com/ngoduong0710) | [![](https://github.com/bngbtran.png)](https://github.com/bngbtran) | [![](https://github.com/Dungnguyengl.png)](https://github.com/Dungnguyengl) | [![](https://github.com/CanhTruongKool.png)](https://github.com/CanhTruongKool) |
